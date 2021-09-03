@@ -1,4 +1,4 @@
 #gauge {
-    background-image: url('/static/images/belly-button.png');
+    background-image: url('./static/images/bellybutton.png');
     background-repeat: no-repeat;
 }
